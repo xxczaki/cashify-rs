@@ -1,0 +1,20 @@
+[package]
+name = "cashify"
+description = "Lightweight currency conversion library."
+version = "0.1.0"
+authors = ["Antoni Kepinski <a@kepinski.me> (https://kepinski.me)"]
+documentation = "https://docs.rs/cashify"
+homepage = "https://github.com/xxczaki/cashify-rs"
+repository = "https://github.com/xxczaki/cashify-rs"
+keywords = ["currency", "conversion", "money", "exchange", "rates"]
+license = "MIT"
+readme = "readme.md"
+exclude = [".travis.yml"]
+edition = "2018"
+
+[dev-dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+
+[package.metadata.docs.rs]
+features = [ "serde" ]
