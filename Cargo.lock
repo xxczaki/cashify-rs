@@ -2,7 +2,7 @@
 # It is not intended for manual editing.
 [[package]]
 name = "cashify"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "serde 1.0.111 (registry+https://github.com/rust-lang/crates.io-index)",
  "serde_json 1.0.53 (registry+https://github.com/rust-lang/crates.io-index)",

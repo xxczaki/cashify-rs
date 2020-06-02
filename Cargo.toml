@@ -1,7 +1,7 @@
 [package]
 name = "cashify"
 description = "Lightweight currency conversion library."
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Antoni Kepinski <a@kepinski.me> (https://kepinski.me)"]
 documentation = "https://docs.rs/cashify"
 homepage = "https://github.com/xxczaki/cashify-rs"
