@@ -6,7 +6,7 @@
 [![Crates](http://meritbadge.herokuapp.com/cashify)](https://crates.io/crates/cashify)
 [![cashify at docs.rs](https://docs.rs/cashify/badge.svg)](https://docs.rs/cashify)
 
-This [Rust] crate is a port of the [Cashify](https://github.com/xxczaki/cashify/) npm package from the same author. API is not the same.
+This Rust crate is a port of the [Cashify](https://github.com/xxczaki/cashify/) npm package from the same author. API is not the same.
 
 ## Documentation
 
