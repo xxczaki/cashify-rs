@@ -12,6 +12,6 @@ readme = "readme.md"
 exclude = [".travis.yml"]
 edition = "2018"
 
-[dev-dependencies]
+[dependencies]
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
